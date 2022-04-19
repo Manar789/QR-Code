@@ -1,0 +1,28 @@
+body {
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 18rem;
+  margin: 200px auto;
+  border-radius: 5%;
+}
+
+.card-img-top {
+  padding: 15px;
+  border-radius: 10%;
+}
+
+h5 {
+  font-weight: 700;
+  font-size: 1.3rem;
+
+}
+
+p {
+  font-size: 15px;
+  color: #7b879d;
+  line-height: normal;
+}
